@@ -12,7 +12,7 @@ let num1=32, num2=2; let Multiply = num1*num2;
 
 let random= Math.floor(Math.random() * 10) + 1;
 //document.Write(random)
-
+let mod=
 function remainder(num3,num4){
   answer = num3 % num4;
   return answer;
