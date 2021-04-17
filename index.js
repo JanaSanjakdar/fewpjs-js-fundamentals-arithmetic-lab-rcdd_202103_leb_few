@@ -14,6 +14,8 @@ const multiply = num1*num2;
 
 let random= Math.floor(Math.random() * 10) + 1;
 //document.Write(random)
+let num3=9;
+let num4=5;
 const mod = function(){
   let num3= 9;
   let num4= 5;
