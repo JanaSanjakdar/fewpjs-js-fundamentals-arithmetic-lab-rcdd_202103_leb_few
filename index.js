@@ -14,12 +14,13 @@ const multiply = num1*num2;
 
 let random= Math.floor(Math.random() * 10) + 1;
 //document.Write(random)
-const mod = function(){
+const mod = 
+/*function(){
   let num3= 9;
   let num4= 5;
   let remainder = num3%num4;
 
-}
+}*/
 //document.Write(remainder(16, 6))
 
 const max= Math.max(2,10,18,20)
