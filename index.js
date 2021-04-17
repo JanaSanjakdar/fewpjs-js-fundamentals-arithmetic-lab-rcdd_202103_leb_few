@@ -8,7 +8,7 @@
 }
 document.Write (Multiply(1, 62))*/
 
-const num1 = 32;
+const num1 = 31;
 const num2 = 2;
 const multiply = num1*num2;
 
@@ -25,3 +25,4 @@ const mod = 9%5;
 
 const max= Math.max(2,10,18,20)
 //document.Write (max)
+
