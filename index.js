@@ -17,7 +17,7 @@ let random= Math.floor(Math.random() * 10) + 1;
 const mod = function(){
   let num3= ;
   let num4= ;
-  let remainder = num3%num4
+  let remainder = num3%num4;
 }
 //document.Write(remainder(16, 6))
 
