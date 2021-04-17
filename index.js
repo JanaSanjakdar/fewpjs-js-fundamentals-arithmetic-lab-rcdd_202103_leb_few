@@ -12,9 +12,9 @@ let num1=32, num2=2; let Multiply = num1*num2;
 
 let random= Math.floor(Math.random() * 10) + 1;
 //document.Write(random)
-const mod = remainder(num3,num4){
-  answer = num3 % num4;
-console.log(answer)
+const mod = remainder(){
+  mod = num3 % num4;
+console.log(mod)
 }
 //document.Write(remainder(16, 6))
 
