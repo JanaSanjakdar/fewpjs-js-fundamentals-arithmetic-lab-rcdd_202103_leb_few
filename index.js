@@ -17,3 +17,4 @@ const mod = 9 % 5;
 
 const max= Math.max(2,10,18,20)
 //document.Write (max)
+
