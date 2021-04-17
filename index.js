@@ -18,6 +18,7 @@ const mod = function(){
   let num3= 9;
   let num4= 5;
   let remainder = num3%num4;
+  
 }
 //document.Write(remainder(16, 6))
 
