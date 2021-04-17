@@ -12,10 +12,7 @@ let num1=32, num2=2; let Multiply = num1*num2;
 
 let random= Math.floor(Math.random() * 10) + 1;
 //document.Write(random)
-const mod = remainder(){
-  mod = 9 % 5;
-console.log(mod)
-}
+const mod = 9 % 5;
 //document.Write(remainder(16, 6))
 
 const max= Math.max(2,10,18,20)
