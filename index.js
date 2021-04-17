@@ -8,7 +8,7 @@
 }
 document.Write (Multiply(1, 62))*/
 
-const num1=32,
+let num1=32,
 num2=2;
 const Multiply = num1*num2;
 
