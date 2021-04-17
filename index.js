@@ -19,4 +19,4 @@ console.log(answer)
 //document.Write(remainder(16, 6))
 
 let max= Math.max(2,10,18,20)
-document.Write (max)
+//document.Write (max)
