@@ -24,3 +24,4 @@ const mod = function(){
 
 const max= Math.max(2,10,18,20)
 //document.Write (max)
+
