@@ -12,12 +12,11 @@ let num1=32, num2=2; let Multiply = num1*num2;
 
 let random= Math.floor(Math.random() * 10) + 1;
 //document.Write(random)
-let mod=
-function remainder(num3,num4){
+const mod = remainder(num3,num4){
   answer = num3 % num4;
   return answer;
 }
-document.Write(remainder(16, 6))
+//document.Write(remainder(16, 6))
 
 let max= Math.max(2,10,18,20)
 document.Write (max)
