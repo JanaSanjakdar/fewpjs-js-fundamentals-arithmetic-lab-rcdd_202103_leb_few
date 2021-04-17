@@ -9,7 +9,7 @@
 document.Write (Multiply(1, 62))*/
 
 let num1 = 32,
-let num2 = 2;
+const num2 = 2;
 const multiply = num1*num2;
 
 let random= Math.floor(Math.random() * 10) + 1;
